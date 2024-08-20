@@ -1,4 +1,4 @@
-# Chips Miel 🛡️
+# Chips Miel 🛡️⚔️💻
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Flag_of_France.png/800px-Flag_of_France.png" width="2%"> ****Bonjour, je suis Wiifou mais vous pouvez également me trouver sous le pseudo Chips_miel. Je suis ravi d'être ici sur Github !! 🤤****
 
@@ -26,3 +26,32 @@ I work in the field of cyber security as a SOC analyst and am actively training 
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+##
+```
+ _____ _     _           ___  ____      _ 
+/  __ \ |   (_)          |  \/  (_)    | |
+| /  \/ |__  _ _ __  ___ | .  . |_  ___| |
+| |   | '_ \| | '_ \/ __|| |\/| | |/ _ \ |
+| \__/\ | | | | |_) \__ \| |  | | |  __/ |
+ \____/_| |_|_| .__/|___/\_|  |_/_|\___|_|
+              | |                         
+              |_|                         
+```
