@@ -1,12 +1,12 @@
 # Chips Miel 🛡️⚔️💻
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Flag_of_France.png/800px-Flag_of_France.png" width="2%"> ****Bonjour, je suis Wiifou mais vous pouvez également me trouver sous le pseudo Chips_miel. Je suis ravi d'être ici sur Github !! 🤤****
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Flag_of_France.png/800px-Flag_of_France.png" width="2%"> ****Bonjour, je suis Chips_miel mais vous pouvez également me trouver sous le pseudo Wiifou. Je suis ravi d'être ici sur Github !! 🤤****
 
 *Je travaille dans le domaine de la cybersécurité en tant qu'analyste SOC et je me forme activement au pentesting pour améliorer mes compétences.*
 
 
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/42/Flag_of_the_United_Kingdom.png" width="2%"> **Hello I'm Wiifou but you can also find me as Chips_miel, I'm Happy to be here on Github !! 🤤**
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/42/Flag_of_the_United_Kingdom.png" width="2%"> **Hello I'm Chips_miel but you can also find me as Wiifou, I'm Happy to be here on Github !! 🤤**
 
 *Working in the field of cyber security as a SOC analyst and am actively training in penetration testing to enhance my skills.*
 <p align="center">
