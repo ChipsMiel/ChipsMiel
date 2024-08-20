@@ -8,7 +8,8 @@ Je me consacre à la sécurité informatique et participe activement à divers c
 ## Mes Profils 🕵️‍♂️
 
 - **Root-Me**  
-  ![Tête de mort](https://upload.wikimedia.org/wikipedia/commons/5/59/Skull_and_crossbones.svg) [Wiifou sur Root-Me](https://www.root-me.org/Wiifou?lang=fr#7a5e53933120dd29f1c65650f40050b6)
+![Root-Me Logo](https://www.root-me.org/IMG/logo/siteon0.svg?1637496509)
+ [Wiifou sur Root-Me](https://www.root-me.org/Wiifou?lang=fr#7a5e53933120dd29f1c65650f40050b6)
 
 - **LinkedIn**  
   [Mon profil LinkedIn](https://www.linkedin.com/in/ma%C3%ABl-bouchand/)
