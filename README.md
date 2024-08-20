@@ -22,26 +22,6 @@
 **Hack The Box**    <img src="https://icons-for-free.com/iff/png/256/hackthebox-1330289840795787516.png" alt="HTB Logo" width="2%">   [ChipsMiel #1046869 sur Hack The Box](https://app.hackthebox.com/users/1046869) <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Gray_circles_rotate.gif" alt="Chargement" width="1%"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Gray_circles_rotate.gif" alt="Chargement" width="1%"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Gray_circles_rotate.gif" alt="Chargement" width="1%">
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ##
 ```
  _____ _     _           ___  ____      _ 
