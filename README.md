@@ -10,7 +10,7 @@ Je me consacre à la sécurité informatique et participe activement à divers c
 - **Root-Me**  
 ![Root-Me Logo](https://www.root-me.org/IMG/logo/siteon0.svg?1637496509)
 
-<img src="https://www.root-me.org/IMG/logo/siteon0.svg?1637496509" alt="Root-Me Logo" width="10%">
+<img src="https://www.root-me.org/IMG/logo/siteon0.svg?1637496509" alt="Root-Me Logo" width="5%">
 
  [Wiifou sur Root-Me](https://www.root-me.org/Wiifou?lang=fr#7a5e53933120dd29f1c65650f40050b6)
 
